@@ -20,7 +20,7 @@ pipeline {
 				{
 					steps{
 						echo "Testing the Project.........."
-					          }
+					          
 				}
 				stage('Release') 
 				{
